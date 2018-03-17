@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/start/start",
+    "pages/end/end"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "忍者跑酷",
+    "navigationBarTextStyle":"#fff",
+    "backgroundColor":"#ccc"
+  }
+}

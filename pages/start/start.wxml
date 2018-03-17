@@ -1,0 +1,12 @@
+<!--pages/start/start.wxml-->
+<view class='container' bindtap='start' >
+  <image class='{{classtype}}' src="{{srctype}}" style="bottom: {{bottom}}px;"></image>
+  <span class="floor" style="left: {{left}}px;"></span>
+   <span class="other-floor" style="left: {{left+350}}px;bottom:150px;"></span>
+   <span class="other-floor" style="left: {{left+480}}px;bottom:150px;"></span>
+   <span class="other-floor" style="left: {{left+600}}px;bottom:220px;"></span>
+    <span class="other-floor" style="left: {{left+710}}px;bottom:300px;"></span>
+   <span class="other-floor" style="left: {{left+750}}px;bottom:370px;"></span>
+   <span class="other-floor" style="left: {{left+810}}px;bottom:300px;"></span>
+   <span class="other-floor" style="left: {{left+850}}px;bottom:200px;"></span> 
+</view>

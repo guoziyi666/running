@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <image class='indexback' src='{{background}}'></image>
+  <div class="title">忍者跑酷</div>
+  <button bindtap="changeStart">开始游戏</button>
+</view>
